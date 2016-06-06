@@ -2,8 +2,7 @@
 
 > **Outline of the method:**
 
-> - Get image using jquery from webmail html page
-> - Grey-scale the image
-> - Median filter
+> - Get image from webmail html page
+> - Median filter and convert to binary
 > - Perform the algo given in the paper
 > - Pre fill captcha and login user
