@@ -1,7 +1,7 @@
 import urllib,os
 from PIL import Image
 
-i = 20
+i = 9	
 download_link = "https://webmail.iitg.ernet.in/plugins/captcha/backends/watercap/image_generator.php?sq=1475095334"
 while i>0:
 	imageName = str(i) + ".jpg"
